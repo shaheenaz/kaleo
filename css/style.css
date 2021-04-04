@@ -2,7 +2,7 @@ header h1{
     color: brown;text-align: center;background-color: darkgrey; font-size: xx-large;font-family: fantasy;
 }
 header nav li a{
-    float:left;display: inline-block; text-decoration: none;font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float:left ;display:inline-block; text-decoration: none;font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
     background-color: rgb(221, 217, 217);
